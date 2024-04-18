@@ -1,0 +1,32 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+datePublished: '2024-04-18'
+type: LearningResource
+name: OER GitHub Tutorial - JupyterBook
+description: This tutorial shows how to publish your OER on GitHub using JupyterBook.
+license: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+id: https://tibhannover.github.io/oer-github-tutorial-jupyterbook/00_intro.html
+creator:
+  - givenName: Sophie
+    familyName: Matter
+    type: Person
+    affiliation:
+      name: >-
+        Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum
+        Technik und Naturwissenschaften - Universitätsbibliothek
+      id: https://ror.org/04aj4c181
+      type: Organization
+keywords:
+  - OER
+  - GitHub
+  - JupyterBook
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+learningResourceType:
+  - https://w3id.org/kim/hcrt/course
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+image: >-
+  https://raw.githubusercontent.com/TIBHannover/oer-github-tutorial-jupyterbook/main/_static/img/preview.png
