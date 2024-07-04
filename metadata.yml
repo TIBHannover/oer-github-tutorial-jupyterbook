@@ -3,7 +3,7 @@ creativeWorkStatus: Published
 datePublished: '2024-04-18'
 type: LearningResource
 name: OER GitHub Tutorial - Jupyter Book
-description: Create open textbooks with Jupyter Book. Jupyter notebooks can be included. This tutorial shows how to publish your OER on GitHub using JupyterBook.
+description: Create open textbooks with Jupyter Book. Python code can be executed using Jupyter notebooks. Detailed structuring and built-in UI elements make for beautiful books.
 license: https://creativecommons.org/publicdomain/zero/1.0/deed.de
 id: https://tibhannover.github.io/oer-github-tutorial-jupyterbook/00_intro.html
 creator:
