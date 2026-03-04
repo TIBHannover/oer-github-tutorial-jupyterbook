@@ -12,7 +12,7 @@ Afterwards, log into your account.
 ## 2. Create your project
 > Create the place where your OER lies.
 
-Go to the [Jupyter OER Template](https://github.com/smatts/jupyter-oer-template/tree/main) and click on the green **Use this template** button, then on **Create a new repository**. This generated your own project (called `repository`).
+Go to the [Jupyter OER Template](https://github.com/tibhannover/jupyter-oer-template/tree/main) and click on the green **Use this template** button, then on **Create a new repository**. This generated your own project (called `repository`).
 Assign the repository's owner to yourself (or to a group of your choice, if you are a member of one) and give it a short, but meaningful name that describes your OER. This name will also be the used for the URL to your OER. Optionally add a description.
 Make sure that the repository is set to **public**.
 Lastly, confirm by clicking on **Create repository from template**. 
