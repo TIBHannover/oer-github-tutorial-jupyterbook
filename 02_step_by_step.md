@@ -41,7 +41,7 @@ Some of the basic Markdown syntax is shown in the reference part of this tutoria
 
 > The place where you will put your OER is called a `repository`. You can think of it as a project where all your files are located.
 
-Once you are logged into GitHub, go to the [Jupyter OER Template](https://github.com/smatts/jupyter-oer-template/tree/main) and click on "Use this template" -> "Create a new repository".
+Once you are logged into GitHub, go to the [Jupyter OER Template](https://github.com/tibhannover/jupyter-oer-template/tree/main) and click on "Use this template" -> "Create a new repository".
 
 ![Create repository](_static/img/create-repository.png)
 
