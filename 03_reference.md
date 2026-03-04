@@ -121,7 +121,7 @@ This is why we are working with [Markdown](#markdown-1) to format our *plain tex
 There are a lot of editors that help you with writing text using the Markdown syntax.
 They use syntax highlighting to better understand the structure of Markdown and can provide a live preview as you type.
 
-![Editor](img/vscode.png "VSCodium, the open source version of the popular editor VSCode")
+![Editor](_static/img/vscode.png "VSCodium, the open source version of the popular editor VSCode")
 
 The editor you can see in the screenshot is called **VSCodium**, which is the open source version of a popular editor **VSCode** by Microsoft.
 In this editor, you can install plugins that can help you. For example, you can install a plugin that can render a preview of your LiaScript course in your browser without having to upload your changes.

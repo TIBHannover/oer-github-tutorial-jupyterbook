@@ -1,0 +1,22 @@
+version: 1
+project:
+  title: OER Tutorial
+  authors:
+    - name: Sophie Matter
+  github: executablebooks/jupyter-book
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: 00_intro.md
+    - file: 01_quick_start.md
+    - file: 02_step_by_step.md
+    - file: 03_reference.md
+site:
+  options:
+    logo: logo.svg
+    folders: true
+  template: book-theme
